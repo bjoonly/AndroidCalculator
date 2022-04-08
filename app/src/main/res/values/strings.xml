@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="btnLastSymbolClearString"><![CDATA[<]]></string>
+    <string name="btn7String">7</string>
+    <string name="btn0String">0</string>
+    <string name="btn3String">3</string>
+    <string name="btnPointString">.</string>
+    <string name="btnMinusString">-</string>
+    <string name="btn6String">6</string>
+    <string name="btn5String">5</string>
+    <string name="btn4String">4</string>
+    <string name="btn9String">9</string>
+    <string name="btn8String">8</string>
+    <string name="btn1String">1</string>
+    <string name="btn2String">2</string>
+    <string name="btnPlusString">+</string>
+    <string name="btnEqualString">=</string>
+    <string name="btnMultString">*</string>
+    <string name="btnDivString">/</string>
+    <string name="btnClearString">C</string>
+</resources>
